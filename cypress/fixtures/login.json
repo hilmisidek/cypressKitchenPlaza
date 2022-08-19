@@ -1,0 +1,19 @@
+[
+  {
+    "email_login": "",
+    "password_login":"",
+    "message_login": "Error: Username is required."
+  },
+
+  {
+  "email_login": "zalikamari@gmail.com",
+  "password_login" : "",
+  "message_login": "Error: the password field is empty."
+  },
+  
+  {
+    "email_login": "hell@como",
+    "password_login" : "hell",
+    "message_login": "ERROR: The username or password you entered is incorrect. Lost your password?"
+  }
+]

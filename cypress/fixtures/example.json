@@ -1,0 +1,21 @@
+[
+  {
+  "email": "hello@cypress",
+  "message": "Error: Please provide a valid email address."
+  },
+  {
+    "email": "hello@cypress",
+    "message": "Error: Please provide a valid email address."
+  },
+  {
+      "email": "zalikamari@gmail.com",
+      "message": "Error: An account is already registered with your email address. Please log in."
+  },
+  {
+    "email": "hilmisidek@hotmail.com",
+    "message": "Error: An account is already registered with your email address. Please log in."
+  }
+   
+
+
+]
