@@ -1,0 +1,7 @@
+[
+  {
+    "email_login": "insert email",
+    "password_login":"insert password"
+  }
+]
+delete this line and rename as loginpass.json
